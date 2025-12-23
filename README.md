@@ -85,7 +85,7 @@ Production AI platform with stateful agent workflows, RAG capabilities, and MCP 
 ---
 
 ## 📫 Connect
-- **Email:** abdul@websters.org
+- **Email:** abdul@thewebsters.org
 - **LinkedIn:** https://www.linkedin.com/in/mogambooo/
 - **GitHub:** You're already here 👋
 
