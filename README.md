@@ -86,8 +86,7 @@ A production AI platform enabling stateful agent workflows, RAG pipelines, and M
 ---
 
 ## 📫 Connect
-- **Email:** abdul@thewebsters.org  
-- **LinkedIn:** https://github.com/mogambooo/abduljamal-dev  
+- **LinkedIn:** https://www.linkedin.com/in/mogambooo/  
 - **GitHub:** You’re already here 👋  
 
 ---
