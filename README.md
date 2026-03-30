@@ -1,94 +1,132 @@
-# 👋 Hi, I’m Abdul Jamal Nasir
+# 👋 Hi, I'm Abdul Jamal Nasir
 
-**Lead Web Developer | Full-Stack Architect | AI Platform Builder**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A7A8A&center=true&vCenter=true&width=700&lines=AI+Solutions+Architect;Senior+Full-Stack+Engineer;AI+Agent+%26+Platform+Builder;LangChain+%7C+RAG+%7C+MCP+%7C+Voice+AI;16%2B+Years+Building+Production+Systems;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://linkedin.com/in/mogambooo)
 
-I build **production-grade web platforms** designed to scale in real-world environments.  
-My work focuses on **enterprise SaaS systems, multi-tenant architectures, and AI-powered automation**, solving complex business problems with clean, maintainable, and predictable code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mogambooo/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mogambooo)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
 
-I currently lead development on **Rave 2.0**, a multi-tenant retail and subscription platform, and **AI98**, an AI agent orchestration system built on LangGraph workflows and MCP integrations.
+---
+
+## 🧠 About Me
+```
+Name          : Abdul Jamal Nasir
+Location      : Pakistan 🇵🇰 (Open to Remote Worldwide)
+Role          : AI Solutions Architect & Senior Full-Stack Engineer
+Experience    : 16+ Years in Web Platforms & AI Systems
+Education     : MSc Computer Science — BZU Multan
+Stack         : Laravel · Node.js · TypeScript · React · LangChain · Pinecone · MCP
+AI Focus      : Agent Orchestration · RAG Pipelines · Voice AI · Workflow Automation
+Currently     : Open to fully remote AI architecture & senior engineering roles 💼
+Building      : Simple Academy — documenting the AI journey
+```
+
+---
+
+## 🚀 Flagship Projects
+
+### Studio98.ai — Multi-Tenant AI Agent Orchestration Platform
+A production AI platform enabling natural language-driven backend automation across multiple tenants. Built from the ground up with stateful agent workflows, RAG pipelines, and MCP-based tool integrations.
+
+**Stack:** Laravel · Node.js (TypeScript) · LangChain · LangGraph · Pinecone · MongoDB · OpenAI · MCP  
+**Key Capabilities:** Multi-tenant AI orchestration · Agent memory & checkpoints · Tool calling · Vector search · Real-time WebSocket communication
+
+---
+
+### RaveRetailer 2.0 — Enterprise Retail & Subscription Platform
+A multi-tenant SaaS platform for retail businesses featuring AI-driven coupon engines, automated business workflows, dynamic analytics dashboards, complex subscription models, and deep third-party integrations.
+
+**Stack:** Laravel 10 · React 18 · MySQL · Redis · Google Cloud  
+**Key Capabilities:** Multi-tenancy · AI-powered coupon engine · Pricing & billing engines · Payments · Inventory management · Analytics
+
+---
+
+## 📊 Impact by Numbers
+
+| 🎯 Achievement | 📈 Result |
+|---|---|
+| AI platform tenants supported from single codebase | **Multi-tenant at scale** |
+| Reduction in manual workflow steps via AI automation | **~60% reduction** |
+| Backend processes automated via natural language agents | **15+ workflows** |
+| Third-party integrations built & maintained | **10+ systems** |
+| Years shipping production-grade web platforms | **16+** |
+| Voice AI systems deployed (VAPI · ElevenLabs · Twilio) | **Production-ready** |
+| RAG pipelines with vector search (Pinecone) | **Live in production** |
 
 ---
 
 ## 🧠 What I Build
 
-### Enterprise Platforms
-- Multi-tenant SaaS systems using Laravel Tenancy and service-oriented architecture  
-- Scalable subscription, pricing, and billing engines for retail and e-commerce  
-- Robust business logic layers using queues, events, and background processing  
+**AI & Intelligent Systems**
+- AI agent orchestration using LangChain and LangGraph
+- Retrieval-Augmented Generation (RAG) with vector databases
+- Model Context Protocol (MCP) integrations for tool-augmented AI
+- Voice AI systems using VAPI, ElevenLabs, and Twilio
+- Workflow automation with n8n and custom pipeline design
 
-### Modern Web Applications
-- React + TypeScript SPAs with real-time data flows and state management  
-- Admin dashboards featuring analytics, drag-and-drop builders, and complex forms  
-- Component-driven UI architectures backed by design systems  
+**Enterprise Web Platforms**
+- Multi-tenant SaaS systems with service-oriented architecture
+- Scalable subscription, pricing, and billing engines
+- Robust business logic layers using queues, events, and background processing
 
-### AI & Automation Systems
-- AI agent orchestration using LangChain and LangGraph  
-- Retrieval-Augmented Generation (RAG) with vector databases  
-- Model Context Protocol (MCP) integrations for tool-augmented AI  
-- Real-time agent communication using WebSockets  
+**Modern Web Applications**
+- React + TypeScript SPAs with real-time data flows
+- Admin dashboards with analytics, drag-and-drop builders, and complex forms
+- Component-driven UI backed by design systems
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-- **Laravel 10+** – APIs, services, multi-tenancy (Stancl), Horizon, Passport, Pulse  
-- **PHP 8.1+** – Strict typing, clean architecture, modern language features  
-- **Datastores** – MySQL, PostgreSQL, MongoDB, Redis  
-- **Integrations** – Stripe, Authorize.net, Avalara, TaxJar, ShipStation, FedEx, Twilio, OpenAI  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mogambooo)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/mogambooo)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/mogambooo)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mogambooo)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mogambooo)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mogambooo)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/mogambooo)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/mogambooo)
 
 ### Frontend
-- **React 18** with TypeScript  
-- **UI & State** – Ant Design, Material UI, React Query, Context API  
-- **Advanced Interfaces** – dnd-kit, Tiptap, Slate, CodeMirror  
-- **Build & Styling** – Webpack, Babel, PostCSS, Tailwind CSS  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mogambooo)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mogambooo)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mogambooo)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/mogambooo)
 
 ### AI & Automation
-- **LangChain** – Agents, chains, RAG pipelines  
-- **LangGraph** – Stateful workflows with MongoDB/Postgres checkpoints  
-- **OpenAI API** – GPT-4, embeddings, function calling  
-- **MCP** – Tool and context orchestration  
-- **Vector Stores** – Pinecone, MongoDB Atlas Search  
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/mogambooo)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/mogambooo)
+[![Vapi](https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://github.com/mogambooo)
 
-### Infrastructure & DevOps
-- **Google Cloud Platform** – Cloud Storage, Logging, Firestore  
-- **Firebase** – Hosting, Realtime Database  
-- **Background Processing** – Queues, scheduled jobs, Horizon  
-- **Observability & Testing** – Bugsnag, Telescope, Pest, PHPUnit  
-
----
-
-## 🚀 Current Projects
-
-### Rave 2.0 — Enterprise Retail & Subscription Platform
-A multi-tenant SaaS platform for retail businesses featuring complex subscription models, automated billing, tax calculations, shipping integrations, and operational dashboards.
-
-**Stack:** Laravel 10, React 18, MySQL, Redis, Google Cloud  
-**Key Capabilities:** Multi-tenancy, pricing engines, payments, inventory management, analytics  
-
----
-
-### AI98 — AI Agent Orchestration Platform
-A production AI platform enabling stateful agent workflows, RAG pipelines, and MCP-based tool integrations. Designed for complex, multi-step reasoning with memory and checkpoints.
-
-**Stack:** Laravel MCP, Node.js (TypeScript), LangChain, LangGraph, MongoDB, Pinecone, OpenAI  
-**Key Capabilities:** Agent workflows, tool calling, real-time communication, vector search  
+### Infrastructure & Integrations
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/mogambooo)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/mogambooo)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/mogambooo)
 
 ---
 
 ## 🧩 Engineering Principles
-- **Architecture first** — design for scale and longevity  
-- **Service-oriented design** — business logic belongs in services  
-- **Type safety** — leverage PHP 8+ and TypeScript to fail early  
-- **Pragmatic AI** — apply AI only where it delivers real value  
-- **Performance matters** — optimize queries, cache deliberately, profile continuously  
+
+- **Architecture first** — design for scale and longevity before writing a single line
+- **Service-oriented design** — business logic belongs in services, not controllers
+- **Type safety** — leverage PHP 8+ and TypeScript to fail early, not in production
+- **Pragmatic AI** — apply AI only where it delivers measurable real-world value
+- **Performance matters** — optimize queries, cache deliberately, profile continuously
 
 ---
 
 ## 📫 Connect
-- **LinkedIn:** https://www.linkedin.com/in/mogambooo/  
-- **GitHub:** You’re already here 👋  
+
+- 💼 **LinkedIn:** [linkedin.com/in/mogambooo](https://www.linkedin.com/in/mogambooo/)
+- 🐙 **GitHub:** You're already here 👋
 
 ---
 
-⭐ Open to collaborating on challenging problems in SaaS, e-commerce platforms, and AI-powered systems.
+💼 **Currently open to fully remote AI architecture and senior engineering roles.**  
+⭐ Open to collaborating on challenging problems in AI systems, SaaS platforms, and intelligent automation.
