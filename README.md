@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 👋 Hi, I'm Abdul Jamal Nasir
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A7A8A&center=true&vCenter=true&width=700&lines=AI+Solutions+Architect;Senior+Full-Stack+Engineer;AI+Agent+%26+Platform+Builder;LangChain+%7C+RAG+%7C+MCP+%7C+Voice+AI;16%2B+Years+Building+Production+Systems;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://linkedin.com/in/mogambooo)
@@ -7,7 +8,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mogambooo)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
+
 </div>
+
 ---
 
 ## 🧠 About Me
