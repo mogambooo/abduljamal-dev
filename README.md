@@ -7,7 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mogambooo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.jamalnasir@gmail.com)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mogambooo)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/mogambooo)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mogambooo)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/mogambooo)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
+[![Claude](https://img.shields.io/badge/Claude_AI-1A7A8A?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-1A7A8A?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
 
 </div>
 
