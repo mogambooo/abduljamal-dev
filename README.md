@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A7A8A&center=true&vCenter=true&width=700&lines=AI+Solutions+Architect;Senior+Full-Stack+Engineer;AI+Agent+%26+Platform+Builder;LangChain+%7C+RAG+%7C+MCP+%7C+Voice+AI;16%2B+Years+Building+Production+Systems;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://linkedin.com/in/mogambooo)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mogambooo/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.jamalnasir@gmail.com)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mogambooo)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
 
@@ -125,12 +125,31 @@ A multi-tenant SaaS platform for retail businesses featuring AI-driven coupon en
 
 ---
 
+## 💬 A Quote I Live By
+
+> *"The best way to predict the future is to build it."*
+> — Alan Kay
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mogambooo&color=1A7A8A&style=for-the-badge)
+
+---
+
+### 🌍 Open to Remote Opportunities Worldwide
+
+**AI Solutions Architect · Senior Full-Stack Engineer · AI Agent Builder · Technical Lead**
+
+*Laravel · React · Vue.js · LangChain · RAG · MCP · Voice AI · 16+ Years Experience*
+
 ## 📫 Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/mogambooo](https://www.linkedin.com/in/mogambooo/)
 - 🐙 **GitHub:** You're already here 👋
 
----
 
-💼 **Currently open to fully remote AI architecture and senior engineering roles.**  
-⭐ Open to collaborating on challenging problems in AI systems, SaaS platforms, and intelligent automation.
+</div>
