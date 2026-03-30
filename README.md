@@ -20,7 +20,7 @@ Location      : United States 🇺🇸 (Open to Remote Worldwide)
 Role          : AI Solutions Architect & Senior Full-Stack Engineer
 Experience    : 16+ Years in Web Platforms & AI Systems
 Education     : MSc Computer Science — BZU Multan
-Stack         : Laravel · Node.js · TypeScript · React · LangChain · Pinecone · MCP
+Stack         : Laravel · Node.js · TypeScript · React · Vue.js · LangChain · Pinecone · MCP
 AI Focus      : Agent Orchestration · RAG Pipelines · Voice AI · Workflow Automation
 Currently     : Open to fully remote AI architecture & senior engineering roles 💼
 Building      : Simple Academy — documenting the AI journey
