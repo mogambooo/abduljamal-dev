@@ -16,7 +16,7 @@
 ## 🧠 About Me
 ```
 Name          : Abdul Jamal Nasir
-Location      : Pakistan 🇵🇰 (Open to Remote Worldwide)
+Location      : United States 🇺🇸 (Open to Remote Worldwide)
 Role          : AI Solutions Architect & Senior Full-Stack Engineer
 Experience    : 16+ Years in Web Platforms & AI Systems
 Education     : MSc Computer Science — BZU Multan
