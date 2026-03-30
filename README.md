@@ -96,12 +96,14 @@ A multi-tenant SaaS platform for retail businesses featuring AI-driven coupon en
 ### Frontend
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mogambooo)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mogambooo)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/mogambooo)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/mogambooo)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/mogambooo)
 
 ### AI & Automation
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/mogambooo)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mogambooo)
+[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/mogambooo)
 [![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/mogambooo)
 [![Vapi](https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logoColor=white)](https://github.com/mogambooo)
