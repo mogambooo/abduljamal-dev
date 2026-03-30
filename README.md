@@ -148,8 +148,8 @@ A multi-tenant SaaS platform for retail businesses featuring AI-driven coupon en
 
 ## 📫 Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/mogambooo](https://www.linkedin.com/in/mogambooo/)
-- 🐙 **GitHub:** You're already here 👋
+💼 **LinkedIn:** [linkedin.com/in/mogambooo](https://www.linkedin.com/in/mogambooo/)
+🐙 **GitHub:** You're already here 👋
 
 
 </div>
